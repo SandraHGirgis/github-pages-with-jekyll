@@ -2,10 +2,9 @@
 title: "Meet New Creators"
 date: 2020-06-15
 ---
-
-author: sandraHgirgis
+Name: Sandra Girgis
+github author: sandraHgirgis
 email: shgirgis@ebnet.org
-description: 
 
 # social links
 FaceBook_username: Sandra Hany 
